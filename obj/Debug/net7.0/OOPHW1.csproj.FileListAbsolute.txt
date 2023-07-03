@@ -1,0 +1,15 @@
+C:\Users\79619\source\repos\OOPHW1\OOPHW1\bin\Debug\net7.0\OOPHW1.exe
+C:\Users\79619\source\repos\OOPHW1\OOPHW1\bin\Debug\net7.0\OOPHW1.deps.json
+C:\Users\79619\source\repos\OOPHW1\OOPHW1\bin\Debug\net7.0\OOPHW1.runtimeconfig.json
+C:\Users\79619\source\repos\OOPHW1\OOPHW1\bin\Debug\net7.0\OOPHW1.dll
+C:\Users\79619\source\repos\OOPHW1\OOPHW1\bin\Debug\net7.0\OOPHW1.pdb
+C:\Users\79619\source\repos\OOPHW1\OOPHW1\obj\Debug\net7.0\OOPHW1.csproj.AssemblyReference.cache
+C:\Users\79619\source\repos\OOPHW1\OOPHW1\obj\Debug\net7.0\OOPHW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79619\source\repos\OOPHW1\OOPHW1\obj\Debug\net7.0\OOPHW1.AssemblyInfoInputs.cache
+C:\Users\79619\source\repos\OOPHW1\OOPHW1\obj\Debug\net7.0\OOPHW1.AssemblyInfo.cs
+C:\Users\79619\source\repos\OOPHW1\OOPHW1\obj\Debug\net7.0\OOPHW1.csproj.CoreCompileInputs.cache
+C:\Users\79619\source\repos\OOPHW1\OOPHW1\obj\Debug\net7.0\OOPHW1.dll
+C:\Users\79619\source\repos\OOPHW1\OOPHW1\obj\Debug\net7.0\refint\OOPHW1.dll
+C:\Users\79619\source\repos\OOPHW1\OOPHW1\obj\Debug\net7.0\OOPHW1.pdb
+C:\Users\79619\source\repos\OOPHW1\OOPHW1\obj\Debug\net7.0\OOPHW1.genruntimeconfig.cache
+C:\Users\79619\source\repos\OOPHW1\OOPHW1\obj\Debug\net7.0\ref\OOPHW1.dll
